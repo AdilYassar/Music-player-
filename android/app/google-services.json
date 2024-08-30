@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "98334267162",
+    "project_id": "music-bag-c9e21",
+    "storage_bucket": "music-bag-c9e21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98334267162:android:bd6a2e43e911973822fea3",
+        "android_client_info": {
+          "package_name": "com.example.music_player"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxjYqEUukLzrwTiiQx46K5_JTF6lcFRrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
